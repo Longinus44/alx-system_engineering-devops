@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # This script uses While loop to display "Best School" for 10 times
 
-while ((i <= 10)); do
+while ((i <= 9)); do
     echo "Best School"
     ((i++))
 done
