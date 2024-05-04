@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
-
 # This script displays information about subdomains of a given domain.
-
 
 display_info() {
     domain=$1
